@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Fredy Zurita
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hola 👋 soy Fredy Zurita
 
-<!---
-Fredyz1978/Fredyz1978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Amo la tecnología
+
+* Trabajo en [SMARTWORK S.A.](https://www.smartwork.com.ec/), es una empresa de desarrollo de software a medida.
+* Tengo 42 años.
+* Práctico Trail Running, como mi pasa tiempo favorito.
+* Estoy cursando la maestría de FULL STACK WEB.
